@@ -1,4 +1,4 @@
-# Capstone-II
+# Capstone-II - Discount Dynamics: Optimizing Revenue and Profitability Strategies
 ## Context
 dataset yang digunakan adalah AWS Saas Sales, dataset ini berisi transaksi data dari sebuah SaaS company fiksi yang menjual software sales dan marketing ke company lain (Business to Business)
 
